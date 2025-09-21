@@ -2,5 +2,9 @@
 name = "rust-agent"
 version = "0.1.0"
 edition = "2024"
+description = "Next Generation AI Agent Framework for Web3."
+license = "GPL-3.0"
+homepage = "https://www.openpick.org"
+repository = "https://github.com/rust-agent/rust-agent"
 
 [dependencies]

@@ -1,6 +1,6 @@
 # Rust Agent
 
-Next Generation AI Agent Framework for Web3
+Next Generation AI Agent Framework for Web3.
 
 ## ✨ Features
 
